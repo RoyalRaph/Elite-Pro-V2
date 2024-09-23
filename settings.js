@@ -6,14 +6,14 @@ const chalk = require('chalk')
 global.sessionid ='put your session id here'
 
 //owmner v card
-global.ytname = "YT: ELITE-PRO-V2" //ur yt chanel name
+global.ytname = "YT: Royal Raph-MD" //ur yt chanel name
 global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
-global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
+global.botname = 'ROYAL RAPH' //ur bot name
+global.ownernumber = '23057130371' //ur owner number
+global.ownername = 'ROYAL RAPH' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
@@ -23,7 +23,7 @@ global.packname = "Sticker By"
 global.author = "ELITE-PRO-V2"
 global.creator = "2348109263390@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348109263390"] // Premium User
+global.premium = ["23057130371"] // Premium User
 global.hituet = 0
 
 //bot sett
